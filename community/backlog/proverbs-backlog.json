@@ -1323,7 +1323,7 @@
     "romaji": "Nido aru koto wa sando aru",
     "english": "What happens twice will happen a third time",
     "meaning": "Patterns tend to repeat",
-    "completed": false,
+    "completed": true,
     "issued": false
   },
   {
@@ -1333,7 +1333,7 @@
     "english": "The nail that sticks out gets hammered down",
     "meaning": "Standing out invites criticism",
     "issued": false,
-    "completed": false
+    "completed": true
   },
   {
     "id": 149,
@@ -1368,7 +1368,7 @@
     "romaji": "Omoitattaga kichijitsu",
     "english": "The day you decide is a lucky day",
     "meaning": "Start now",
-    "completed": false,
+    "completed": true,
     "issued": false
   },
   {
@@ -1396,7 +1396,7 @@
     "english": "A skilled hawk hides its talons",
     "meaning": "True skill is modest",
     "completed": false,
-    "issued": false
+    "issued": true
   },
   {
     "id": 156,
